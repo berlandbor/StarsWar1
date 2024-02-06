@@ -1089,7 +1089,7 @@ $.setState = function( state ) {
 			lockedWidth: 299,
 			lockedHeight: 49,
 			scale: 3,
-			title: '©Wevielo by berlandbor',
+			title: 'WEVIELO',
 			action: function() {
 				location.href = 'index.html';
 				$.mouse.down = 0;
@@ -1207,7 +1207,7 @@ $.setupStates = function() {
 			ctx: $.ctxmg,
 			x: $.cw / 2,
 			y: $.ch / 2 - 100,
-			text: 'RADIUS RAID',
+			text: 'STAR WARS'/*'RADIUS RAID'*/,
 			hspacing: 2,
 			vspacing: 1,
 			halign: 'center',
